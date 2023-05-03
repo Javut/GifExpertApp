@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <GifExpertApp /> Debe renderizar el title de la pagina  1`] = `
+<h1>
+  GifExpertApp
+</h1>
+`;
+
+exports[`Pruebas en el componente <GifExpertApp /> Debe renderizar los componentes de la pagina  1`] = `
+<h1>
+  GifExpertApp
+</h1>
+`;
